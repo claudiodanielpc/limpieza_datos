@@ -1,4 +1,4 @@
-** Do file para calcular indicadores de ENOE;
+** Do file para descargar tablas de ENOE;
 
 		#delimit;
 						clear all;
